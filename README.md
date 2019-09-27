@@ -1,4 +1,5 @@
 # Can You Speak Pig Latin
+Pig Latin, a Ruby program, translates one English word into Pig Latin.
 A user can enter any word and turn it into Pig Latin
 
 If the given word starts with a consonant, move only that consonant to end and then add "ay" to the end (e.g.: coffee -> offeecay, blogger -> loggerbay)
